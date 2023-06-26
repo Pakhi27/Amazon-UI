@@ -1,1 +1,1 @@
-# Amazon-UI
+# Amazon-UI clone
